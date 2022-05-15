@@ -63,7 +63,8 @@ flycheck_*.el
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -146,7 +147,8 @@ flycheck_*.el
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -195,3 +197,4 @@ Homestead.json
 .phpunit.result.cache
 
 
+firebase_credentials.json
