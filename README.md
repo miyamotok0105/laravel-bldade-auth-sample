@@ -1,0 +1,1 @@
+# laravel-bldade-auth-sample
