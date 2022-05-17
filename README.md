@@ -1,6 +1,9 @@
 
 [link page](https://medium.com/@GaonLabs/laravel-firebase-authentication-complete-guide-7735a1f83a3d)
 
+[Auth Email Verification](https://laravelwithfirebase.blogspot.com/2020/04/chapter-13-implement-custom-firebase-auth-email-verification-template-replace-default-view-using-laravel-php.html)
+
+[Setup Firebase Authentication](https://laravelwithfirebase.blogspot.com/2020/02/chapter-6-setup-firebase-authentication-and-usage-in-laravel.html)
 
 composer create-project laravel/laravel:^8.0 example-app
 cd example-app
@@ -73,4 +76,8 @@ php artisan serve
 
 ngrok http http://127.0.0.1:8080
 php artisan serve --port=8080
+
+
+
+
 
