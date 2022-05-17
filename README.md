@@ -1,4 +1,7 @@
 
+[link page](https://medium.com/@GaonLabs/laravel-firebase-authentication-complete-guide-7735a1f83a3d)
+
+
 composer create-project laravel/laravel:^8.0 example-app
 cd example-app
 
